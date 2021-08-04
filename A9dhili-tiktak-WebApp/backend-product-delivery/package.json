@@ -1,0 +1,17 @@
+{
+  "name": "backend-product-delivery",
+  "version": "1.0.0",
+  "description": "Tech Back : NodeJS ExpressJS Mongoose ... ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN_APP",
+    "Delivery",
+    "Products",
+    "B2C"
+  ],
+  "author": "Islem Braham & Abir Jmail",
+  "license": "ISC"
+}
