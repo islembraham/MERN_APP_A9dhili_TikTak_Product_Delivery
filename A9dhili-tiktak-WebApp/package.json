@@ -1,5 +1,5 @@
 {
-  "author": "Anuj Shah <anujshah584@gmail.com>",
+  "author": "Islem Braham",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
@@ -23,12 +23,12 @@
     "should": "^13.2.3",
     "supertest": "^4.0.2"
   },
-  "license": "MIT",
+  "license": "Go My Code",
   "main": "server.js",
   "name": "food-delivery",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShahAnuj2610/tomato-food-delivery.git"
+    "url": "https://github.com/islembraham/MERN_APP_A9dhili_TikTak_Product_Delivery.git"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
