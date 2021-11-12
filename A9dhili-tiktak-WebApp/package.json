@@ -17,7 +17,7 @@
     "passport-jwt": "^4.0.0",
     "validator": "^10.9.0"
   },
-  "description": "Full Stack Food Delivery SPA",
+  "description": "Full Stack Product Delivery SPA",
   "devDependencies": {
     "mocha": "^7.1.1",
     "should": "^13.2.3",
